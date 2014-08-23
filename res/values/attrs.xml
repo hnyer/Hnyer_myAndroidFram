@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="MyButton">
+	    <attr name="bg_click" format="reference"></attr>
+	    <attr name="changeColor" format="boolean"/>
+	</declare-styleable>
+   
+        
+</resources>
